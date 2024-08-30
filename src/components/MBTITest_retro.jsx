@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { questions, results } from '../data/questions';
+import { questions, results } from '../data/questions_retro';
 import MainPage from './MainPage';
 import { useNavigate } from 'react-router-dom';
 
